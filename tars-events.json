@@ -13,44 +13,28 @@
       "type": "milestone"
     },
     {
-      "id": "tars-datasummary-20260721",
+      "id": "tars-ert-20260720",
+      "title": "🔧 ERT",
+      "start": "2026-07-20T13:00:00Z",
+      "end": "2026-07-20T15:30:00Z",
+      "description": "2.5hr block. W29. Mon Jul 20.",
+      "type": "block"
+    },
+    {
+      "id": "tars-datasummary-20260720",
       "title": "📊 Data Summary",
-      "start": "2026-07-21T13:00:00Z",
+      "start": "2026-07-20T16:00:00Z",
+      "end": "2026-07-20T20:00:00Z",
+      "description": "4hr block. W29. Mon Jul 20.",
+      "type": "block"
+    },
+    {
+      "id": "tars-fieldwork-ryanpy1-20260721",
+      "title": "🦺 Fieldwork — Ryan PY (AM)",
+      "start": "2026-07-21T12:00:00Z",
       "end": "2026-07-21T17:00:00Z",
-      "description": "4hr block. W29.",
-      "type": "block"
-    },
-    {
-      "id": "tars-datasummary-20260722",
-      "title": "📊 Data Summary",
-      "start": "2026-07-22T13:00:00Z",
-      "end": "2026-07-22T17:00:00Z",
-      "description": "4hr block. W29.",
-      "type": "block"
-    },
-    {
-      "id": "tars-datasummary-20260723",
-      "title": "📊 Data Summary",
-      "start": "2026-07-23T13:00:00Z",
-      "end": "2026-07-23T17:00:00Z",
-      "description": "4hr block. W29.",
-      "type": "block"
-    },
-    {
-      "id": "tars-datasummary-20260724",
-      "title": "📊 Data Summary",
-      "start": "2026-07-24T13:00:00Z",
-      "end": "2026-07-24T17:00:00Z",
-      "description": "4hr block. W29.",
-      "type": "block"
-    },
-    {
-      "id": "tars-datasummary-20260725",
-      "title": "📊 Data Summary",
-      "start": "2026-07-25T13:00:00Z",
-      "end": "2026-07-25T17:00:00Z",
-      "description": "4hr block. W29.",
-      "type": "block"
+      "description": "Fieldwork AM block 8AM–1PM. Project: Ryan PY. W29.",
+      "type": "fieldwork"
     },
     {
       "id": "tars-40discussion-20260721",
@@ -59,6 +43,38 @@
       "end": "2026-07-21T17:30:00Z",
       "description": "With Shannon and Katie.",
       "type": "meeting"
+    },
+    {
+      "id": "tars-fieldwork-ryanpy2-20260721",
+      "title": "🦺 Fieldwork — Ryan PY (PM)",
+      "start": "2026-07-21T17:30:00Z",
+      "end": "2026-07-21T20:30:00Z",
+      "description": "Fieldwork PM block 1:30PM–4:30PM. Project: Ryan PY. W29.",
+      "type": "fieldwork"
+    },
+    {
+      "id": "tars-fieldwork-ayer-20260722",
+      "title": "🦺 Fieldwork — AYER (VM)",
+      "start": "2026-07-22T13:00:00Z",
+      "end": "2026-07-22T21:00:00Z",
+      "description": "Full day fieldwork 9AM–5PM. Project: AYER (VM). W29.",
+      "type": "fieldwork"
+    },
+    {
+      "id": "tars-datasummary-20260723",
+      "title": "📊 Data Summary",
+      "start": "2026-07-23T13:00:00Z",
+      "end": "2026-07-23T17:00:00Z",
+      "description": "4hr block. W29. Thu Jul 23.",
+      "type": "block"
+    },
+    {
+      "id": "tars-datasummary-20260724",
+      "title": "📊 Data Summary",
+      "start": "2026-07-24T13:00:00Z",
+      "end": "2026-07-24T17:00:00Z",
+      "description": "4hr block. W29. Fri Jul 24.",
+      "type": "block"
     }
   ]
 }
